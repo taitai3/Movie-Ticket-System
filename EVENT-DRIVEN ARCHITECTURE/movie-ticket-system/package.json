@@ -1,0 +1,10 @@
+{
+  "name": "movie-ticket-system",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node start-all.js"
+  },
+  "dependencies": {
+    "amqplib": "^1.0.3"
+  }
+}
